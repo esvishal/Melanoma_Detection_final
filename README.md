@@ -89,6 +89,3 @@ The break down of the final provided CNN architecture step by step:
 
 - [Efficient way to build CNN architecture](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7)
 
-## Collaborators
-
-Created by [@akashkriplani](https://github.com/akashkriplani)
